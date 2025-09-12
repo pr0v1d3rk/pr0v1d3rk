@@ -1,0 +1,19 @@
+{
+  "topics": [
+    "Emerging Cybersecurity",
+    "Cloud Security",
+    "AI & Threat Modeling",
+    "Zero Trust",
+    "Supply Chain Security",
+    "Offensive AI",
+    "Red Team Automation",
+    "Threat Hunting",
+    "Adversary Emulation",
+    "Quantum-Safe Cryptography",
+    "Cloud-Native Security",
+    "ICS/SCADA Security",
+    "OSINT & Recon Automation",
+    "Malware Reverse Engineering",
+    "Bug Bounty Triage & Exploits"
+  ]
+}

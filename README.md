@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @pr0v1d3rk — Midnight Pentester
 
+> _<!--QUOTE-->Hack the Planet!<!--END_QUOTE-->_  
+
 > _midnight pentest — vintage vibes_  
 > 90s-hacker aesthetic • CRT glow • floppy disks • neon.
 
@@ -13,11 +15,11 @@
 
 ---
 
-## 📊 Quick stats
+- ## 📊 Quick stats
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
-- 📚 Learning: ![Learning](https://img.shields.io/badge/Emerging%20Cybersecurity-blue?style=flat-square)  
+- 📚 Learning: <!--LEARNING-->Emerging Cybersecurity<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
-- ⏱️ Last updated: ![Last Commit](https://img.shields.io/github/last-commit/pr0v1d3rk/pr0v1d3rk?style=flat-square)
+- ⏱️ Last updated: <!--DATE-->2025-09-12<!--END_DATE-->
 
 ---
 

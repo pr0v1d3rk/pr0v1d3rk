@@ -1,9 +1,7 @@
 # 👋 Hi, I’m @pr0v1d3rk — Midnight Pentester
 
-> _<!--QUOTE-->Hack the Planet!<!--END_QUOTE-->_  
 
-> _midnight pentest — vintage vibes_  
-> 90s-hacker aesthetic • CRT glow • floppy disks • neon.
+> _<!--QUOTE-->Hack the Planet!<!--END_QUOTE-->_ 
 
 ---
 

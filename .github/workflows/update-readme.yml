@@ -1,0 +1,64 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+  workflow_dispatch:       # Allow manual run
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Update README
+        run: |
+          import json, random, datetime, re, pathlib
+
+          readme = pathlib.Path("README.md").read_text()
+          topics = json.loads(pathlib.Path("learning.json").read_text())["topics"]
+          quotes = json.loads(pathlib.Path("quotes.json").read_text())["quotes"]
+
+          chosen_topic = random.choice(topics)
+          chosen_quote = random.choice(quotes)
+
+          # Replace LEARNING section
+          readme = re.sub(
+              r"<!--LEARNING-->.*?<!--END_LEARNING-->",
+              f"<!--LEARNING-->{chosen_topic}<!--END_LEARNING-->",
+              readme,
+              flags=re.S
+          )
+
+          # Replace QUOTE section
+          readme = re.sub(
+              r"<!--QUOTE-->.*?<!--END_QUOTE-->",
+              f"<!--QUOTE-->{chosen_quote}<!--END_QUOTE-->",
+              readme,
+              flags=re.S
+          )
+
+          # Replace DATE section
+          today = datetime.date.today().isoformat()
+          readme = re.sub(
+              r"<!--DATE-->.*?<!--END_DATE-->",
+              f"<!--DATE-->{today}<!--END_DATE-->",
+              readme,
+              flags=re.S
+          )
+
+          pathlib.Path("README.md").write_text(readme)
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: auto-update README [skip ci]" || echo "No changes"
+          git push

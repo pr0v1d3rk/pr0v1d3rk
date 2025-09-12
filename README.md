@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @pr0v1d3rk — Midnight Pentester
 
 
-> _<!--QUOTE-->Hack the Planet!<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Recon is 90% of the hack.<!--END_QUOTE-->_ 
 
 ---
 
@@ -15,7 +15,7 @@
 
 - ## 📊 Quick stats
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
-- 📚 Learning: <!--LEARNING-->Emerging Cybersecurity<!--END_LEARNING-->  
+- 📚 Learning: <!--LEARNING-->Cloud Security<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
 - ⏱️ Last updated: <!--DATE-->2025-09-12<!--END_DATE-->
 

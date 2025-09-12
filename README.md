@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @pr0v1d3rk — Midnight Pentester
 
-<img src="./pp.png" alt="90s hacker profile art" width="220" align="right">
-
 > _midnight pentest — vintage vibes_  
 > 90s-hacker aesthetic • CRT glow • floppy disks • neon.
 

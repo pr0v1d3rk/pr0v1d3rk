@@ -23,15 +23,6 @@
 
 ---
 
-## 📡 Contact
-Pick what works best for you:  
-- ✉️ Email: `yourname+github@example.com` *(PGP preferred)*    
-- 🧑‍💻 GitHub: [github.com/pr0v1d3rk](https://github.com/pr0v1d3rk)  
-
-> 🔐 Secure contact? Paste your PGP key — I’ll reply encrypted.
-
----
-
 ## ⚔️ Collab & workflow
 1. DM/email with program link, scope, and timeline.  
 2. I’ll confirm availability & triage plan.  
@@ -48,6 +39,14 @@ Pick what works best for you:
 ## 🎮 Fun stuff
 - 🎧 Soundtrack: retro synthwave + late-night playlists  
 - 🕹️ Hobbies: retro computing, puzzle hunts, CTFs  
+
+---
+
+## 📡 Contact
+Pick what works best for you:     
+- 🧑‍💻 GitHub: [github.com/pr0v1d3rk](https://github.com/pr0v1d3rk)  
+
+> 🔐 Secure contact? Paste your PGP key — I’ll reply encrypted.
 
 ---
 

@@ -1,5 +1,8 @@
 # 👋 Hi, I’m @pr0v1d3rk — Midnight Pentester
 
+[![Update README](https://github.com/pr0v1d3rk/pr0v1d3rk/actions/workflows/update-readme.yml/badge.svg)](https://github.com/pr0v1d3rk/pr0v1d3rk/actions/workflows/update-readme.yml)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
+
 
 > _<!--QUOTE-->Recon is 90% of the hack.<!--END_QUOTE-->_ 
 

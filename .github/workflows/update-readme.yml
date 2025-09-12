@@ -6,6 +6,9 @@ on:
     - cron: "37 13 * * *"   # Bonus: at 13:37 UTC (leet time 😎)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest

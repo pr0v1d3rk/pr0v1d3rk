@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->Hack the Planet!<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Red teams dream in shell prompts.<!--END_QUOTE-->_ 
 
 ---
 

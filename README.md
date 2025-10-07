@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->Hack the Planet!<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Data wants to be free.<!--END_QUOTE-->_ 
 
 ---
 
@@ -20,7 +20,7 @@
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
 - 📚 Learning: <!--LEARNING-->OSINT & Recon Automation<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
-- ⏱️ Last updated: <!--DATE-->2025-10-06<!--END_DATE-->
+- ⏱️ Last updated: <!--DATE-->2025-10-07<!--END_DATE-->
 
 ---
 

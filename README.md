@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->Debugging is like archaeology of code.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Hardened systems are puzzles, not walls.<!--END_QUOTE-->_ 
 
 ---
 

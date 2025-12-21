@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->Recon is 90% of the hack.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Persistence is an exploit’s best friend.<!--END_QUOTE-->_ 
 
 ---
 
@@ -20,7 +20,7 @@
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
 - 📚 Learning: <!--LEARNING-->Emerging Cybersecurity<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
-- ⏱️ Last updated: <!--DATE-->2025-12-20<!--END_DATE-->
+- ⏱️ Last updated: <!--DATE-->2025-12-21<!--END_DATE-->
 
 ---
 

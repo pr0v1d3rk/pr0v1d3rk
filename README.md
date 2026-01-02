@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->Data wants to be free.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Root is where the heart is.<!--END_QUOTE-->_ 
 
 ---
 
@@ -18,7 +18,7 @@
 
 - ## 📊 Quick stats
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
-- 📚 Learning: <!--LEARNING-->Red Team Automation<!--END_LEARNING-->  
+- 📚 Learning: <!--LEARNING-->Cloud-Native Security<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
 - ⏱️ Last updated: <!--DATE-->2026-01-02<!--END_DATE-->
 

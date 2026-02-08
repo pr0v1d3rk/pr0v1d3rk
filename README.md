@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->A hacker sees doors where others see walls.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Packets never lie.<!--END_QUOTE-->_ 
 
 ---
 

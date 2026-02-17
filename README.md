@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->CTFs sharpen the blade.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Firewalls are just speed bumps.<!--END_QUOTE-->_ 
 
 ---
 
@@ -18,9 +18,9 @@
 
 - ## 📊 Quick stats
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
-- 📚 Learning: <!--LEARNING-->Malware Reverse Engineering<!--END_LEARNING-->  
+- 📚 Learning: <!--LEARNING-->Adversary Emulation<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
-- ⏱️ Last updated: <!--DATE-->2026-02-16<!--END_DATE-->
+- ⏱️ Last updated: <!--DATE-->2026-02-17<!--END_DATE-->
 
 ---
 

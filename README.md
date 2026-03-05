@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->Red teams dream in shell prompts.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Recon is 90% of the hack.<!--END_QUOTE-->_ 
 
 ---
 
@@ -18,7 +18,7 @@
 
 - ## 📊 Quick stats
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
-- 📚 Learning: <!--LEARNING-->AI & Threat Modeling<!--END_LEARNING-->  
+- 📚 Learning: <!--LEARNING-->Offensive AI<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
 - ⏱️ Last updated: <!--DATE-->2026-03-05<!--END_DATE-->
 

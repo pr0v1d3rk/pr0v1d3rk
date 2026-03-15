@@ -18,7 +18,7 @@
 
 - ## 📊 Quick stats
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
-- 📚 Learning: <!--LEARNING-->Red Team Automation<!--END_LEARNING-->  
+- 📚 Learning: <!--LEARNING-->OSINT & Recon Automation<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
 - ⏱️ Last updated: <!--DATE-->2026-03-15<!--END_DATE-->
 

@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->Access granted.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Root is where the heart is.<!--END_QUOTE-->_ 
 
 ---
 

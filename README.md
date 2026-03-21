@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->In the shadows, we debug.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Hardened systems are puzzles, not walls.<!--END_QUOTE-->_ 
 
 ---
 
@@ -18,7 +18,7 @@
 
 - ## 📊 Quick stats
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
-- 📚 Learning: <!--LEARNING-->Supply Chain Security<!--END_LEARNING-->  
+- 📚 Learning: <!--LEARNING-->Cloud Security<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
 - ⏱️ Last updated: <!--DATE-->2026-03-21<!--END_DATE-->
 

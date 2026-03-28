@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->Encrypt everything, trust nothing.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Data wants to be free.<!--END_QUOTE-->_ 
 
 ---
 
@@ -18,9 +18,9 @@
 
 - ## 📊 Quick stats
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
-- 📚 Learning: <!--LEARNING-->Bug Bounty Triage & Exploits<!--END_LEARNING-->  
+- 📚 Learning: <!--LEARNING-->Malware Reverse Engineering<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
-- ⏱️ Last updated: <!--DATE-->2026-03-27<!--END_DATE-->
+- ⏱️ Last updated: <!--DATE-->2026-03-28<!--END_DATE-->
 
 ---
 

@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->CTFs sharpen the blade.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->0day today, patch tomorrow.<!--END_QUOTE-->_ 
 
 ---
 
@@ -20,7 +20,7 @@
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
 - 📚 Learning: <!--LEARNING-->Threat Hunting<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
-- ⏱️ Last updated: <!--DATE-->2026-03-29<!--END_DATE-->
+- ⏱️ Last updated: <!--DATE-->2026-03-30<!--END_DATE-->
 
 ---
 

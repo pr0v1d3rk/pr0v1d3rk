@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->Packets never lie.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Silence in IRC, noise in logs.<!--END_QUOTE-->_ 
 
 ---
 
@@ -18,9 +18,9 @@
 
 - ## 📊 Quick stats
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
-- 📚 Learning: <!--LEARNING-->Emerging Cybersecurity<!--END_LEARNING-->  
+- 📚 Learning: <!--LEARNING-->ICS/SCADA Security<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
-- ⏱️ Last updated: <!--DATE-->2026-04-11<!--END_DATE-->
+- ⏱️ Last updated: <!--DATE-->2026-04-12<!--END_DATE-->
 
 ---
 

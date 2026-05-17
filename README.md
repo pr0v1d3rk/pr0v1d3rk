@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->Code is law.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Hackers write history in syslogs.<!--END_QUOTE-->_ 
 
 ---
 

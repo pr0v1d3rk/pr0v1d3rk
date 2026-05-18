@@ -18,7 +18,7 @@
 
 - ## 📊 Quick stats
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
-- 📚 Learning: <!--LEARNING-->ICS/SCADA Security<!--END_LEARNING-->  
+- 📚 Learning: <!--LEARNING-->Cloud Security<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
 - ⏱️ Last updated: <!--DATE-->2026-05-18<!--END_DATE-->
 

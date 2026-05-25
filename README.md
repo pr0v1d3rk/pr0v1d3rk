@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->Social engineering is the oldest exploit.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Bug bounty: digital treasure hunting.<!--END_QUOTE-->_ 
 
 ---
 

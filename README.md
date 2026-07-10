@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->Midnight ops never sleep.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Privilege escalation is a lifestyle.<!--END_QUOTE-->_ 
 
 ---
 

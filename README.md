@@ -18,7 +18,7 @@
 
 - ## 📊 Quick stats
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
-- 📚 Learning: <!--LEARNING-->Emerging Cybersecurity<!--END_LEARNING-->  
+- 📚 Learning: <!--LEARNING-->Zero Trust<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
 - ⏱️ Last updated: <!--DATE-->2026-07-18<!--END_DATE-->
 

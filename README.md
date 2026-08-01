@@ -4,7 +4,7 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--13-blue?style=flat)
 
 
-> _<!--QUOTE-->Hardened systems are puzzles, not walls.<!--END_QUOTE-->_ 
+> _<!--QUOTE-->Packets never lie.<!--END_QUOTE-->_ 
 
 ---
 
@@ -18,9 +18,9 @@
 
 - ## 📊 Quick stats
 - 🛠️ Focus: **Pentesting & Bug Bounties**  
-- 📚 Learning: <!--LEARNING-->Red Team Automation<!--END_LEARNING-->  
+- 📚 Learning: <!--LEARNING-->Quantum-Safe Cryptography<!--END_LEARNING-->  
 - 🎯 Open to: ![Collab](https://img.shields.io/badge/Collab-Bounty%20Hunts-success?style=flat-square) ![CTFs](https://img.shields.io/badge/CTFs-purple?style=flat-square)  
-- ⏱️ Last updated: <!--DATE-->2026-07-31<!--END_DATE-->
+- ⏱️ Last updated: <!--DATE-->2026-08-01<!--END_DATE-->
 
 ---
 
